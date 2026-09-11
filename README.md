@@ -1,0 +1,2 @@
+# VVOXPJ
+VOICEVOX工程文件公开
