@@ -1,2 +1,5 @@
-# VVOXPJ
-VOICEVOX工程文件公开
+# VOICEVOX工程文件公开
+
+请在常识范围内自由使用。
+
+二次利用时请遵守VOICEVOX及各角色的相关规定。
